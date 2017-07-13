@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Presentations | Jonathan LeBlanc - Developer Advocate]]></title>
+  <link href="http://jcleblanc.github.io/blog/categories/presentations/atom.xml" rel="self"/>
+  <link href="http://jcleblanc.github.io/"/>
+  <updated>2017-07-12T23:00:50-07:00</updated>
+  <id>http://jcleblanc.github.io/</id>
+  <author>
+    <name><![CDATA[Jonathan LeBlanc]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rebuilding Commerce]]></title>
+    <link href="http://jcleblanc.github.io/blog/2015/02/27/rebuilding-commerce/"/>
+    <updated>2015-02-27T07:28:20-08:00</updated>
+    <id>http://jcleblanc.github.io/blog/2015/02/27/rebuilding-commerce</id>
+    <content type="html"><![CDATA[<p>Earlier last month, I was giving a keynote down in Sao Paulo, Brazil at <a href="http://www.campus-party.com.br">Campus Party</a>.  The topic I covered was a new way of looking at financial technology for me, and explored the inadequacies of current banking and financial institions.  I dove into some of the reasons why over 50% of the worlds population are unbanked (having no bank account), and how technology is quickly leaving these people behind.  That market struggles, as technology is not geared towards them, but it&rsquo;s one that is ripe for complete disruption.</p>
+
+<p>Many of the reasons why I care about this industry are from some personal hardships early in my professional life, which I go through in the talk.</p>
+
+<p>The video clip is available below:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b3nB6kZQeaQ" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Also, the core slides from my talk are here:</p>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/44129673" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+
+<p> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jcleblanc/rebuilding-commerce" title="Rebuilding Commerce" target="_blank">Rebuilding Commerce</a> </strong> from <strong><a href="//www.slideshare.net/jcleblanc" target="_blank">Jonathan LeBlanc</a></strong> </div></p>
+
+<p>Jonathan LeBlanc</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Screencasts | Jonathan LeBlanc - Developer Advocate]]></title>
+  <link href="http://jcleblanc.github.io/blog/categories/screencasts/atom.xml" rel="self"/>
+  <link href="http://jcleblanc.github.io/"/>
+  <updated>2017-07-12T23:00:50-07:00</updated>
+  <id>http://jcleblanc.github.io/</id>
+  <author>
+    <name><![CDATA[Jonathan LeBlanc]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Sunshine PHP]]></title>
+    <link href="http://jcleblanc.github.io/blog/2016/02/10/sunshine-php/"/>
+    <updated>2016-02-10T07:35:14-08:00</updated>
+    <id>http://jcleblanc.github.io/blog/2016/02/10/sunshine-php</id>
+    <content type="html"><![CDATA[<p>Last week I had a chance to speak at Sunshine PHP about Identity and Data Security in PHP. This was a dive into the fundamentals of protecting user identity through password security, and diving into different ways to protect data as it&rsquo;s being transmitted, both through secure and insecure channels.</p>
+
+<p>Within the talk, I cover several topics in the space:</p>
+
+<ul>
+<li>Password Security (attack vectors, salting / peppering, hashing methods).</li>
+<li>Ideal data security (SSL/TLS and how to set up your own self-signed certificate).</li>
+<li>Insecure channel security using Symmetric cryptography (shared secret key) and Asymmetric cryptography (public / private keys).</li>
+</ul>
+
+
+<p>The screencast of the session is available below:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o3uy7dgG_n4" frameborder="0" allowfullscreen></iframe>
+
+
+<p>If you&rsquo;re just looking for the slides, you can find below:</p>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/jOqSNWPM1rzLsa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+
+<p> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jcleblanc/php-identity-and-data-security" title="PHP Identity and Data Security" target="_blank">PHP Identity and Data Security</a> </strong> from <strong><a href="//www.slideshare.net/jcleblanc" target="_blank">Jonathan LeBlanc</a></strong> </div></p>
+
+<p>More information on this subject can be found in our upcoming book, <a href="http://shop.oreilly.com/product/0636920044376.do" target="_blank">Identity and Data Security for Web Development</a>.</p>
+
+<p>Jon</p>
+]]></content>
+  </entry>
+  
+</feed>

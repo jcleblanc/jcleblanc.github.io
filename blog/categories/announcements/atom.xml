@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Announcements | Jonathan LeBlanc - Developer Advocate]]></title>
+  <link href="http://jcleblanc.github.io/blog/categories/announcements/atom.xml" rel="self"/>
+  <link href="http://jcleblanc.github.io/"/>
+  <updated>2017-07-12T23:00:50-07:00</updated>
+  <id>http://jcleblanc.github.io/</id>
+  <author>
+    <name><![CDATA[Jonathan LeBlanc]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Goodbye PayPal, Hello Box]]></title>
+    <link href="http://jcleblanc.github.io/blog/2017/07/07/goodbye-paypal/"/>
+    <updated>2017-07-07T09:13:16-07:00</updated>
+    <id>http://jcleblanc.github.io/blog/2017/07/07/goodbye-paypal</id>
+    <content type="html"><![CDATA[<p>I joined PayPal back in August of 2011, and after almost six years with them, it&rsquo;s time to say goodbye. As of today, I will no longer be a member of PayPal, and will be taking on a new role come Monday.</p>
+
+<p>These past years have been a wild ride. I joined during the days of x.com, after leaving Yahoo&rsquo;s developer evangelism team. We had a small developer evangelism team that was trying to build a developer platform for all forty some odd eBay companies, so we definitely had some monumental tasks.</p>
+
+<p>During my time on that team, I heard about a new group that was springing up to have devoted developer and startup outreach for PayPal, led by a guy that I didn&rsquo;t really know other than by reputation from helping to create the innovation and developer teams in Europe. I reached out, had a chat with him, and saw eye to eye on what we wanted to build (he gave me a 6 month trial to prove myself ;)). We both took a chance on each other, and that became my home for the next four years. I truly treasure those years, starting as the first person on the team in North America, building out one of the most focused and innovative teams that I have ever worked on, along with a group of tremendously talented individuals.</p>
+
+<p>With changing company priorities, the need for a strong startup and developer team also changed. When I left that team, I was again lucky to join another innovative team at the company, heading up a developer operations role that was more internally focused. We worked on new systems to help the experience of developers, and target fixes for any deficiencies in our existing APIs and systems. I suppose it serves me right, but I ended up working on working on fixing the same issues that I was complaining about for years in my prior roles. The universe is all full of irony, but I loved it all.</p>
+
+<h2>Lessons Learned</h2>
+
+<p>I wouldn&rsquo;t trade this experience for anything. I had a lot of people who put a lot of faith in me while I was at PayPal, helping me to grow as a developer advocate, engineer, manager, and leader. Those teams were special because of the people, full of amazingly driven, talented folks that constantly pushed me to be a better person daily.</p>
+
+<p>I remember saying once that I never wanted to be a people manager, until I really had no choice. Once I created my first team, I can honestly say that I loved watching their successes, how they handled their failures, and how they grew. I was constantly proud of everything they were able to accomplish as a team. It was a strange feeling, and one that I didn&rsquo;t expect to have.</p>
+
+<p>I was able to grow as a leader and build a much deeper understanding of the many levels of developer advocacy and innovation engineering, and understand how to better fit this career into the needs of a company, building a symbiotic relationship between groups, people, and company values.</p>
+
+<h2>What&rsquo;s Next</h2>
+
+<p><img class="left" src="/images/box-400x400.png" width="300" height="300" title="Box" > As of Monday, I&rsquo;ll be joining <a href="https://developer.box.com/">Box</a> as their director of developer advocacy. I see in what they&rsquo;re building what I loved in my past groups, driven people who want to do something great. As I met more people within the teams I&rsquo;ll be working with, I was constantly surprised at how many people I already worked with at other companies, other initiatives, and random events. It was a great lesson to reinforce the fact that you should always be kind, work effectively, and treat everyone with respect, no matter how small you think your interaction will be for the future.</p>
+
+<p>With this change, I&rsquo;ll also be moving out to Austin, Texas. Before you ask, I already have a backlog of about a dozen people wanting room and board for SXSW 2018 :).</p>
+
+<p>Cheers to the next adventure!</p>
+
+<p><img class="<a" src="href="https://cdn.pastemagazine.com/www/system/images/photo_albums/waynes-world-anniversary/large/waynes-world-22.gif">https://cdn.pastemagazine.com/www/system/images/photo_albums/waynes-world-anniversary/large/waynes-world-22.gif</a>&#8221; title=&#8221;Cheers&#8221; ></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Conference Calls for Proposals in North America (10/14)]]></title>
+    <link href="http://jcleblanc.github.io/blog/2015/10/14/conference-calls-for-proposals-in-north-america-10-slash-14/"/>
+    <updated>2015-10-14T08:31:54-07:00</updated>
+    <id>http://jcleblanc.github.io/blog/2015/10/14/conference-calls-for-proposals-in-north-america-10-slash-14</id>
+    <content type="html"><![CDATA[<p>Below is our next batch of conference CFPs in North America. Of note in this list are the O&#8217;Reilly conferences. OSCON has switched the location of their conference in 2016 from Portland to Austin, so take note of that. In addition, there are a number of security conferences that are looking for speakers.</p>
+
+<p>Here&rsquo;s the list:</p>
+
+<p><em>General</em></p>
+
+<ul>
+<li><a href="http://conferences.oreilly.com/software-architecture-ny">O’Reilly software Architecture conference</a> (April 10-11, New York): CFP closes Oct 31st</li>
+<li><a href="http://conferences.oreilly.com/oscon/open-source/public/cfp/423">O’Reilly OSCON</a> (May 16-19, Austin): CFP closes Nov 24th</li>
+<li><a href="https://devnexus.com/s/cfp">DevNexus</a> (February 15-17, Atlanta): CFP closes Nov 5th</li>
+<li><a href="https://www.twilio.com/signal/call-for-presenters">Twilio Signal</a> (May 24-25, San Francisco): CFP closes Dec 1st</li>
+<li><a href="http://cfp.midwestphp.org/">Midwest PHP</a> (March 4-5, Minneapolis): CFP closes Nov 15th</li>
+<li><a href="https://www.pytennessee.org/speaking/cfp/">PyTennessee</a> (February 6-7, Nashville): CFP closes Nov 15th</li>
+<li><a href="https://us.pycon.org/2016/speaking/">PyCon</a> (May 28-June 5th, Portland): CFP closes November 30th</li>
+</ul>
+
+
+<p><em>Security</em></p>
+
+<ul>
+<li><a href="http://www.bsidesnash.org/cfp0/">BSides</a> (April 16, Nashville): CFP closes Dec 31</li>
+<li><a href="https://bsidesnyc.org/cfp/">BSides</a> (January 16, New York): CFP closes Nov 17th</li>
+<li><a href="http://shmoocon.org/call-for-papers/">Shmoocon</a> (January 15-17, Washington DC): CFP closes Nov 20th</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Conference Calls for Proposals in North America (05/11)]]></title>
+    <link href="http://jcleblanc.github.io/blog/2015/05/11/current-cfps-na-05112015/"/>
+    <updated>2015-05-11T08:16:35-07:00</updated>
+    <id>http://jcleblanc.github.io/blog/2015/05/11/current-cfps-na-05112015</id>
+    <content type="html"><![CDATA[<p>Good afternoon all,</p>
+
+<p>Below is a current list of curated calls for papers throughout North America. These are sorted by CFP close date, but there are 5 at the top that close this week, in case you want to submit talks.</p>
+
+<ul>
+<li><a href="https://thestrangeloop.com/sessions-page/call-for-presentations">Strange Loop</a> (St Louis, September 24-26): CFP closes May 15th. Emerging tech, security, front-end, systems architecture.</li>
+<li><a href="https://2015.djangocon.us/speaking/cfp/">DjangoCon</a> (Austin, September 6-11): CFP closes May 15th. Python.</li>
+<li><a href="https://cfp.zendcon.com/">ZendCon</a> (Las Vegas, October 19-22): CFP closes May 15th. PHP.</li>
+<li><a href="http://www.pyohio.org/call-for-proposals/">PyOhio</a> (Columbus, August 1-2): CFP closes May 15th. Pyton.</li>
+<li><a href="http://2015.postgresopen.org/callforpapers/">PostgresOpen</a> (Dallas, September 16-18): CFP closes May 17th. PostgreSQL.</li>
+<li><a href="http://www.oscon.com/open-source-2015/public/cfp/397?cmp=ly-prog-confpro-reg-os15_397">Ignite OSCON</a> (Portland, July 20): CFP closes June 5th. Open Source.</li>
+<li><a href="http://cfp.thunderplainsconf.com/">Thunder Plains</a> (Oklahoma City, November 3): CFP closes June 14th. Development / Mobile.</li>
+<li><a href="http://2015.midwestuxconference.com/call-for-submissions/">Midwest UX</a> (Pittsburgh, October 1-3): CFP closes June 15th. UI/UX.</li>
+<li><a href="https://rockymtnruby2015.busyconf.com/proposals/new">Rocky Mountain Ruby</a> (Boulder, September 24-25): CFP closes June 15th. Ruby.</li>
+<li><a href="https://www.derbycon.com/call-for-papers/">DerbyCon</a> (Louisville, September 23-27): CFP closes July 20th. Security.</li>
+<li><a href="http://ricon.io/call-for-speakers/">RICON</a> (San Francisco, November 4-6): CFP closes August 30th. Distributed systems.</li>
+<li><a href="https://docs.google.com/forms/d/1Ikt1hPEhiKRs2V8jlHQbGjjC0eRSyTmvA71T4OiK5xE/viewform">APIDays</a> (San Francisco, June 17-18): API Design, IoT.</li>
+<li><a href="http://www.lrtechfest.com/speakers">Little Rock TechFest</a> (Little Rock, October 16th): Open Technology.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Conference Calls for Proposals in North America (03/23)]]></title>
+    <link href="http://jcleblanc.github.io/blog/2015/03/23/current-cfps-na-03232015/"/>
+    <updated>2015-03-23T09:08:30-07:00</updated>
+    <id>http://jcleblanc.github.io/blog/2015/03/23/current-cfps-na-03232015</id>
+    <content type="html"><![CDATA[<p>Hi all,</p>
+
+<p>We have a nice list of good conference calls for proposals out right now in North America.  I&rsquo;ve also included OSCON out in Amsterdam to the list, because it&rsquo;s a heavy hitter conference.  Enjoy.</p>
+
+<ul>
+<li><a href="http://pghtechfest.com/callforspeakers">Pittsburgh Techfest</a> (Pittsburg, June 13)</li>
+<li><a href="https://docs.google.com/forms/d/1Z5UWASbe2Z21LBlmQhURnyVDrz6MRdolMbSRLtCiOgs/viewform">Forward JS</a> (San Francisco, July)</li>
+<li><a href="https://appnationconference.wufoo.com/forms/appnation-iot-summit-call-for-papers">AppNation IoT</a> (Santa Clara, July 21): CFP closes June 1st</li>
+<li><a href="http://www.codeonthebeach.com/cfp">Code on the Beach</a> (Atlantic City, August 7-8): CFP closes March 31st</li>
+<li><a href="https://www.thatconference.com/Speakers">That Conference</a> (Wisconsin Dells, August 10-12): CFP opens March 30th</li>
+<li><a href="https://360idev.com/call-for-papers/">360|iDev</a> (Denver, August 16-19)</li>
+<li><a href="http://2015.northeastphp.org/call-for-papers/">Northeast PHP</a> (Boston, August 22-23)</li>
+<li><a href="http://surge.omniti.com/2015#cfp">Surge</a> (National Harbor MD, September 23-25): CFP closes March 31st</li>
+<li><a href="http://dataweek.co/conference/inquire-about-speaking/">DataWeek</a> (Santa Clara, Sept 28-30): CFP closes August 7th</li>
+<li><a href="http://allthingsopen.org/call-for-speakers/">All Things Open</a> (Raleigh, Oct 18-20)</li>
+<li><a href="https://docs.google.com/forms/d/1RQ79YieG1zGrzVRz0HDJXJhPevCxHZlyUHQbgeUPam0/viewform">HTML5DevConf</a> (San Francisco, Oct 19-23): CFP closes June 24th</li>
+<li><a href="https://docs.google.com/forms/d/1HK-hPK4ovMot0Hnstbc2MFO7BA2YB1FE5NKgYxwHNUo/viewform">CSS Dev Conf</a> (Long Beach, October 26-28): CFP closes April 5th</li>
+<li><a href="http://www.oscon.com/open-source-eu-2015/public/cfp/385">OSCON</a> (Amsterdam, October 26-28): CFP closes Mat 11th</li>
+<li><a href="https://calltospeakers.com/fstoconf/2015">Full Stack Toronto</a> (Toronto, November 14-15): CFP closes October 9th</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Conference Calls for Proposals in North America (02/13)]]></title>
+    <link href="http://jcleblanc.github.io/blog/2015/02/13/current-cfps-na-02132015/"/>
+    <updated>2015-02-13T12:16:27-08:00</updated>
+    <id>http://jcleblanc.github.io/blog/2015/02/13/current-cfps-na-02132015</id>
+    <content type="html"><![CDATA[<p>We have more conferences accepting proposals in North America.  This list has a range of language and specialty conferences, and one of the big ones below is Grace Hopper.</p>
+
+<p>I&rsquo;ve sorted the list based on CFP close date, to make it easier to figure out which one to submit to first:</p>
+
+<ul>
+<li><a href="http://2015.empirejs.org/proposals">EmpireJS</a> (New York, April 26-27): CFP closes February 15th</li>
+<li><a href="http://selfconference.org/submit">Self.conference</a> (Detroit, May 29-30): CFP closes February 16th</li>
+<li><a href="https://github.com/cascadiajs/2015.cascadiajs.com/blob/master/proposals/README.md">CascadiaJS</a> (Blaine WA, July 8-10): CFP closes March 15th</li>
+<li><a href="http://www.devopsdays.org/events/2015-toronto/propose/">DevOps Days Toronto</a> (Toronto, May 14-15): CFP closes February 28th</li>
+<li><a href="http://frontporch.io/call/">Front Porch</a> (Dallas, Oct 7): CFP closes March 20th</li>
+<li><a href="http://gracehopper.org/call-for-participation/">Grace Hopper</a> (Houston, Oct 14-16): CFP closes March 20th</li>
+<li><a href="https://docs.google.com/forms/d/1HK-hPK4ovMot0Hnstbc2MFO7BA2YB1FE5NKgYxwHNUo/viewform">CSS Dev Conf 2015</a> (Long Beach, October 26-28): CFP closes April 5th</li>
+<li><a href="https://sapling.wufoo.com/forms/madison-ux-2015-call-for-proposals/">Madison+ UX</a> (Madison, July 10-11): CFP closes April 18th</li>
+<li><a href="https://sapling.wufoo.com/forms/madison-ruby-2015-call-for-proposals/">Madison+ Ruby</a> (Madison, August 21-22): CFP closes May 9th</li>
+<li><a href="http://www.alterconf.com/speak">AlterConf Chicago</a> (Multiple Locations / Dates)</li>
+<li><a href="http://www.twincitiescodecamp.com/Speakers/CallForSpeakers">Twin Cities Code Camp</a> (Minneapolis, April 25th)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
